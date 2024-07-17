@@ -157,6 +157,7 @@ public class GalaxyCoreModTabs {
 
 		if (tabData.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES) {
 			tabData.accept(GalaxyCoreModItems.VOLCANICAXE.get());
+			tabData.accept(GalaxyCoreModItems.EPEOLATRY.get());
 		}
 	}
 }

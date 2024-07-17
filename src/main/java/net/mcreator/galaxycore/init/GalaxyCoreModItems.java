@@ -96,6 +96,7 @@ import net.mcreator.galaxycore.item.GuanteleteItem;
 import net.mcreator.galaxycore.item.GoldenBladeItem;
 import net.mcreator.galaxycore.item.FrozenBladeItem;
 import net.mcreator.galaxycore.item.FlamepurpleItem;
+import net.mcreator.galaxycore.item.EpeolatryItem;
 import net.mcreator.galaxycore.item.EnergeticAlloyItem;
 import net.mcreator.galaxycore.item.EnderiumBaseItem;
 import net.mcreator.galaxycore.item.EndSteelNuggetItem;
@@ -245,6 +246,7 @@ public class GalaxyCoreModItems {
 	public static final RegistryObject<Item> CACOTA = REGISTRY.register("cacota", () -> new CacotaItem());
 	public static final RegistryObject<Item> GALAXY_POP_NADIEN = block(GalaxyCoreModBlocks.GALAXY_POP_NADIEN);
 	public static final RegistryObject<Item> FUNKITO_NADIEN = block(GalaxyCoreModBlocks.FUNKITO_NADIEN);
+	public static final RegistryObject<Item> EPEOLATRY = REGISTRY.register("epeolatry", () -> new EpeolatryItem());
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));

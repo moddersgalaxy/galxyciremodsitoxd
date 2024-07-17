@@ -2355,6 +2355,21 @@
         ]
       },
       "path": "~/Bloques"
+    },
+    {
+      "name": "Epeolatry",
+      "type": "tool",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "epeolatry",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/epeolatry.json",
+          "src/main/java/net/mcreator/galaxycore/item/EpeolatryItem.java"
+        ]
+      },
+      "path": "~/Armas"
     }
   ],
   "variable_elements": [
@@ -2410,13 +2425,13 @@
       "item.galaxy_core.hub_2": "§6Galaxy coin §cred",
       "item.galaxy_core.end_steel_nugget": "End Steel Nugget",
       "item.galaxy_core.redstone_alloy_nugget": "Redstone Alloy Nugget",
-      "item.galaxy_core.lingote_neutral_tier_1": "Lingote Neutral Tier 1",
       "item.galaxy_core.vanguardsword": "§3Vanguard §bsword",
+      "item.galaxy_core.lingote_neutral_tier_1": "Lingote Neutral Tier 1",
       "item.galaxy_core.heartyellow": "Heart yellow",
       "item.galaxy_core.pepita_pulsante": "Pepita Pulsante",
       "item.galaxy_core.hierro_pulsante": "Hierro Pulsante",
-      "item.galaxy_core.volcanicaxe": "Volcanic Axe",
       "item.galaxy_core.agujero_negro": "Agujero Negro",
+      "item.galaxy_core.volcanicaxe": "Volcanic Axe",
       "item.galaxy_core.brujula_maldita": "Brujula Maldita",
       "item.galaxy_core.transmisor": "Transmisor",
       "item.galaxy_core.orbepurple": "Orbepurple",
@@ -2436,6 +2451,7 @@
       "item.galaxy_core.orbeblue": "Orbe blue",
       "item.galaxy_core.hierro_conductor": "Hierro Conductor",
       "item.galaxy_core.heartpurple": "Heartpurple",
+      "item.galaxy_core.epeolatry": "Epeolatry",
       "item.galaxy_core.pepita_vibrante": "Pepita Vibrante",
       "item.galaxy_core.frozenblade": "Frozen Blade",
       "item.galaxy_core.hub": "§6Galaxy coin §5purple",
