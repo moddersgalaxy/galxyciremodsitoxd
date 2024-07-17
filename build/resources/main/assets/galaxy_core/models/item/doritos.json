@@ -1,0 +1,8 @@
+{
+  "parent": "galaxy_core:custom/doritos",
+  "textures": {
+    "1": "galaxy_core:block/dorito1",
+    "2": "galaxy_core:block/dorito2",
+    "particle": "galaxy_core:item/doritos"
+  }
+}

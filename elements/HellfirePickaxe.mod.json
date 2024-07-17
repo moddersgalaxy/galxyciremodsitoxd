@@ -1,0 +1,36 @@
+{
+  "_fv": 57,
+  "_type": "tool",
+  "definition": {
+    "toolType": "MultiTool",
+    "renderType": 1,
+    "blockingRenderType": 0,
+    "texture": "pickaxe_divine",
+    "customModelName": "pickaxe_divine:default",
+    "blockingModelName": "Normal blocking",
+    "name": "Hellfire Pickaxe",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTab": {
+      "value": "CUSTOM:GalaxyArmas"
+    },
+    "harvestLevel": 1,
+    "efficiency": 12.0,
+    "attackSpeed": 0.8,
+    "enchantability": 2,
+    "damageVsEntity": 35.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onBlockDestroyedWithTool": {
+      "name": "HellfirePickaxeAlRomperUnBloqueConLaHerramienta"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "galaxy_core:custom/sandwichito",
+  "textures": {
+    "0": "galaxy_core:block/sandwichitoo",
+    "particle": "galaxy_core:item/sandwichito"
+  }
+}

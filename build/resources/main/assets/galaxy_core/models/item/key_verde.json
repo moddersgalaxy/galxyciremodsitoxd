@@ -1,0 +1,8 @@
+{
+  "parent": "galaxy_core:custom/keyverde",
+  "textures": {
+    "0": "galaxy_core:block/keyverde",
+    "1": "galaxy_core:block/keyverde2",
+    "particle": "galaxy_core:item/keyamarilla"
+  }
+}

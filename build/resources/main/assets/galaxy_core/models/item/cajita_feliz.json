@@ -1,0 +1,7 @@
+{
+  "parent": "galaxy_core:custom/cajitafeliz",
+  "textures": {
+    "0": "galaxy_core:block/cajitafeliz",
+    "particle": "galaxy_core:item/cajitafeliz"
+  }
+}

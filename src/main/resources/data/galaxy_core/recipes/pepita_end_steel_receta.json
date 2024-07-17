@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "galaxy_core:end_steel_alloy"
+    }
+  ],
+  "result": {
+    "item": "galaxy_core:end_steel_nugget",
+    "count": 9
+  }
+}

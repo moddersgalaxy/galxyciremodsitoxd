@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "item": "galaxy_core:bloque"
+    },
+    "title": {
+      "translate": "advancements.eresunviciao.title"
+    },
+    "description": {
+      "translate": "advancements.eresunviciao.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "eresunviciao": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:block_state_property",
+            "block": "galaxy_core:bloque"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 600
+  },
+  "parent": "galaxy_core:enterserver"
+}

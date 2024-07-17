@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "galaxy_core:block/box_2_16x16",
+    "up": "galaxy_core:block/box_2_16x16",
+    "north": "galaxy_core:block/box_1_16x16",
+    "east": "galaxy_core:block/box_1_16x16",
+    "south": "galaxy_core:block/box_1_16x16",
+    "west": "galaxy_core:block/box_1_16x16",
+    "particle": "galaxy_core:block/box_2_16x16"
+  },
+  "render_type": "solid"
+}

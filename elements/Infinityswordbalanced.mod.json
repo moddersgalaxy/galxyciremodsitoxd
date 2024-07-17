@@ -1,0 +1,33 @@
+{
+  "_fv": 57,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Sword",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "balancedinfinitysword",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Infinity Sword (Balanced)",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTab": {
+      "value": "CUSTOM:GalaxyArmas"
+    },
+    "harvestLevel": 0,
+    "efficiency": 0.0,
+    "attackSpeed": 1.6,
+    "enchantability": 12,
+    "damageVsEntity": 309.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

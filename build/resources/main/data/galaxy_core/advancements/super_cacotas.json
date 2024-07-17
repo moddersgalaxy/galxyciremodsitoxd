@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "galaxy_core:super_caca"
+    },
+    "title": {
+      "translate": "advancements.super_cacotas.title"
+    },
+    "description": {
+      "translate": "advancements.super_cacotas.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "super_cacotas": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "galaxy_core:super_caca"
+          ]
+        }
+      }
+    }
+  },
+  "parent": "galaxy_core:enterserver"
+}

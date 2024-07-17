@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "espadadivine",
+        "1": "arriba"
+      },
+      "name": "default"
+    }
+  }
+}

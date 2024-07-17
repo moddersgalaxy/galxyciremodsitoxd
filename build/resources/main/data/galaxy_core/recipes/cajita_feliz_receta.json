@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcd"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:apple"
+    },
+    "b": {
+      "item": "minecraft:baked_potato"
+    },
+    "c": {
+      "item": "minecraft:chest"
+    },
+    "d": {
+      "item": "minecraft:cooked_chicken"
+    }
+  },
+  "result": {
+    "item": "galaxy_core:cajita_feliz",
+    "count": 1
+  }
+}

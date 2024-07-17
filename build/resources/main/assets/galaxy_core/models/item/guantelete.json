@@ -1,0 +1,7 @@
+{
+  "parent": "galaxy_core:custom/guantelete",
+  "textures": {
+    "0": "galaxy_core:block/guantelete",
+    "particle": "galaxy_core:item/guantelete"
+  }
+}

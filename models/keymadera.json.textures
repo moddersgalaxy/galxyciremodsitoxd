@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "keymadera1",
+        "1": "keymadera2"
+      },
+      "name": "default"
+    }
+  }
+}

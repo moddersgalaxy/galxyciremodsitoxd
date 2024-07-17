@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "b": {
+      "item": "minecraft:golden_apple"
+    }
+  },
+  "result": {
+    "item": "galaxy_core:cacota",
+    "count": 1
+  }
+}

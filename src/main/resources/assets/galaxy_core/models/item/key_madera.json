@@ -1,0 +1,8 @@
+{
+  "parent": "galaxy_core:custom/keymadera",
+  "textures": {
+    "0": "galaxy_core:block/keymadera1",
+    "1": "galaxy_core:block/keymadera2",
+    "particle": "galaxy_core:item/keymadera"
+  }
+}

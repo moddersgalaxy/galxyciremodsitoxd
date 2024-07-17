@@ -1,0 +1,11 @@
+{
+  "_fv": 57,
+  "_type": "tab",
+  "definition": {
+    "name": "galaxy ores",
+    "icon": {
+      "value": "CUSTOM:Hub4"
+    },
+    "showSearch": true
+  }
+}

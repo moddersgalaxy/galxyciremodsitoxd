@@ -1,0 +1,55 @@
+{
+  "_fv": 57,
+  "_type": "item",
+  "definition": {
+    "renderType": 1,
+    "texture": "sandwichito",
+    "customModelName": "sandwichito:default",
+    "customProperties": {},
+    "states": [],
+    "name": "sandwichito de miga",
+    "rarity": "COMMON",
+    "creativeTab": {
+      "value": "CUSTOM:GalaxyTab"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 32,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInformation": {
+      "fixedValue": [
+        "Manjar de dioses"
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "enableRanged": false,
+    "shootConstantly": false,
+    "projectile": {
+      "value": "Arrow"
+    },
+    "isFood": true,
+    "nutritionalValue": 15,
+    "saturation": 15.0,
+    "eatResultItem": {
+      "value": ""
+    },
+    "isMeat": false,
+    "isAlwaysEdible": false,
+    "animation": "eat"
+  }
+}

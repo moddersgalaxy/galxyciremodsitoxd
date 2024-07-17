@@ -1,0 +1,11 @@
+{
+  "_fv": 57,
+  "_type": "tab",
+  "definition": {
+    "name": "Galaxy Extra",
+    "icon": {
+      "value": "CUSTOM:Hub1"
+    },
+    "showSearch": false
+  }
+}

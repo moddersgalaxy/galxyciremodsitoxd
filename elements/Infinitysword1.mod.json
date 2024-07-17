@@ -1,0 +1,33 @@
+{
+  "_fv": 57,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Sword",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "infinitym1sword",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Infinity-1 Sword",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTab": {
+      "value": "CUSTOM:GalaxyArmas"
+    },
+    "harvestLevel": 0,
+    "efficiency": 0.0,
+    "attackSpeed": 1.6,
+    "enchantability": 12,
+    "damageVsEntity": 57.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

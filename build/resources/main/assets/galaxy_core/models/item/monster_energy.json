@@ -1,0 +1,7 @@
+{
+  "parent": "galaxy_core:custom/monsterenergydrink",
+  "textures": {
+    "0": "galaxy_core:block/monsterenergy",
+    "particle": "galaxy_core:item/monsterenergydrink"
+  }
+}

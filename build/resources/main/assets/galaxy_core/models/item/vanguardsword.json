@@ -1,0 +1,7 @@
+{
+  "parent": "galaxy_core:custom/espadauser",
+  "textures": {
+    "0": "galaxy_core:block/espada",
+    "particle": "galaxy_core:item/espadauser"
+  }
+}

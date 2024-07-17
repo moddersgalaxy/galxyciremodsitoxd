@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "galaxy_core:redstone_alloy"
+    }
+  ],
+  "result": {
+    "item": "galaxy_core:redstone_alloy_nugget",
+    "count": 9
+  }
+}

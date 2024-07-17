@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "galaxy_core:block/funkito_nadien"
+    },
+    "facing=east": {
+      "model": "galaxy_core:block/funkito_nadien",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "galaxy_core:block/funkito_nadien",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "galaxy_core:block/funkito_nadien",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "galaxy_core:electricalsteel_ingot"
+    }
+  ],
+  "result": {
+    "item": "galaxy_core:electrical_steel_nugget",
+    "count": 9
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "keyrosa1",
+        "1": "keyrosa2"
+      },
+      "name": "default"
+    }
+  }
+}

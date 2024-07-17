@@ -1,0 +1,7 @@
+{
+  "parent": "galaxy_core:custom/picouser",
+  "textures": {
+    "0": "galaxy_core:block/picouser",
+    "particle": "galaxy_core:item/picouser"
+  }
+}

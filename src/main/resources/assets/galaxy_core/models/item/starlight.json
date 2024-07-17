@@ -1,0 +1,7 @@
+{
+  "parent": "galaxy_core:custom/estrella",
+  "textures": {
+    "0": "galaxy_core:block/estrella",
+    "particle": "galaxy_core:item/estrellafuego"
+  }
+}

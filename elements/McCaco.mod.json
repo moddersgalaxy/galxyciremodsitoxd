@@ -1,0 +1,24 @@
+{
+  "_fv": 57,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "mc caco",
+    "rarity": "EPIC",
+    "texture": "mccacao",
+    "description": "cajita feliz",
+    "creativeTab": {
+      "value": "CUSTOM:GalaxyExtra"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:feliz"
+    },
+    "lengthInTicks": 2000,
+    "analogOutput": 0
+  }
+}

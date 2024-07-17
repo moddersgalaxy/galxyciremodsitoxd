@@ -1,0 +1,7 @@
+{
+  "parent": "galaxy_core:custom/pickaxe_divine",
+  "textures": {
+    "0": "galaxy_core:block/pico",
+    "particle": "galaxy_core:item/pickaxe_divine"
+  }
+}

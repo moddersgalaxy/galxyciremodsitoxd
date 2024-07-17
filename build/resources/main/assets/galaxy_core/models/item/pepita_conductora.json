@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "galaxy_core:item/item_alloy_nugget_conductive_iron"
+  }
+}

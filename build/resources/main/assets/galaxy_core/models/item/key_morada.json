@@ -1,0 +1,8 @@
+{
+  "parent": "galaxy_core:custom/keymorada",
+  "textures": {
+    "0": "galaxy_core:block/keymorada",
+    "1": "galaxy_core:block/keymorda2",
+    "particle": "galaxy_core:item/keymorada"
+  }
+}

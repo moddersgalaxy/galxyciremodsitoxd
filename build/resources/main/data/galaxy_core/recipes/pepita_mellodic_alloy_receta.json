@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "galaxy_core:melodic_alloy"
+    }
+  ],
+  "result": {
+    "item": "galaxy_core:melodic_alloy_nugget",
+    "count": 9
+  }
+}

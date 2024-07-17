@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "galaxy_core:hierro_conductor"
+    }
+  ],
+  "result": {
+    "item": "galaxy_core:pepita_conductora",
+    "count": 9
+  }
+}

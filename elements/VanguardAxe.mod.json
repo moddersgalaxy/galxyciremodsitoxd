@@ -1,0 +1,37 @@
+{
+  "_fv": 57,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Axe",
+    "renderType": 1,
+    "blockingRenderType": 0,
+    "texture": "hachauser",
+    "customModelName": "hachauser:default",
+    "blockingModelName": "Normal blocking",
+    "name": "§3Vanguard §baxe",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTab": {
+      "value": "CUSTOM:GalaxyArmas"
+    },
+    "harvestLevel": 1,
+    "efficiency": 9.0,
+    "attackSpeed": 1.0,
+    "enchantability": 22,
+    "damageVsEntity": 8.0,
+    "usageCount": 1000,
+    "blocksAffected": [],
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:VanguardIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "galaxy_core:custom/keyroja",
+  "textures": {
+    "all": "galaxy_core:block/nadien",
+    "particle": "galaxy_core:block/nadien",
+    "0": "galaxy_core:block/",
+    "1": "galaxy_core:block/"
+  },
+  "render_type": "solid"
+}

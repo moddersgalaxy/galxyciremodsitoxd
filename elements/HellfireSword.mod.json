@@ -1,0 +1,36 @@
+{
+  "_fv": 57,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Sword",
+    "renderType": 1,
+    "blockingRenderType": 0,
+    "texture": "espada_divine",
+    "customModelName": "espada_divine:default",
+    "blockingModelName": "Normal blocking",
+    "name": "Hellfire Sword",
+    "specialInformation": {
+      "fixedValue": [
+        "§6Forjada en el corazón",
+        "§6de un volcán moribundo"
+      ]
+    },
+    "creativeTab": {
+      "value": "CUSTOM:GalaxyArmas"
+    },
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 22,
+    "damageVsEntity": 35.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

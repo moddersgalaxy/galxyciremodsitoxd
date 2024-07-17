@@ -1,0 +1,36 @@
+{
+  "_fv": 57,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Pickaxe",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "infinitym1pick",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Infinity-1 Pick",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTab": {
+      "value": "CUSTOM:GalaxyArmas"
+    },
+    "harvestLevel": 0,
+    "efficiency": 0.0,
+    "attackSpeed": 1.2,
+    "enchantability": 12,
+    "damageVsEntity": 8.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedInAir": {
+      "name": "Tessssssst"
+    }
+  }
+}

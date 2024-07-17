@@ -1,0 +1,8 @@
+{
+  "parent": "galaxy_core:custom/keyamarilla",
+  "textures": {
+    "0": "galaxy_core:block/keyamarilla",
+    "1": "galaxy_core:block/keyamarilla1",
+    "particle": "galaxy_core:item/keyamarilla"
+  }
+}

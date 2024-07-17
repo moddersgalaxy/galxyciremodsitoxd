@@ -1,0 +1,11 @@
+{
+  "_fv": 57,
+  "_type": "tab",
+  "definition": {
+    "name": "galaxy",
+    "icon": {
+      "value": "CUSTOM:Hub"
+    },
+    "showSearch": true
+  }
+}

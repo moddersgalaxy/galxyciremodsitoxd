@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "keymorada",
+        "1": "keymorda2"
+      },
+      "name": "default"
+    }
+  }
+}

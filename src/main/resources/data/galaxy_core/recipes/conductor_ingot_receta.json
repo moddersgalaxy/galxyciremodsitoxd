@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "galaxy_core:pepita_conductora"
+    }
+  },
+  "result": {
+    "item": "galaxy_core:hierro_conductor",
+    "count": 1
+  }
+}

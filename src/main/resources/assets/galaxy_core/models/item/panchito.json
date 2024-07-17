@@ -1,0 +1,7 @@
+{
+  "parent": "galaxy_core:custom/pancho",
+  "textures": {
+    "0": "galaxy_core:block/pancho",
+    "particle": "galaxy_core:item/end_steel_nugget"
+  }
+}

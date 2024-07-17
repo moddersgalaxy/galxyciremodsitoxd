@@ -1,0 +1,8 @@
+{
+  "parent": "galaxy_core:custom/keyrosa",
+  "textures": {
+    "0": "galaxy_core:block/keyrosa1",
+    "1": "galaxy_core:block/keyrosa2",
+    "particle": "galaxy_core:item/keyrosa"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.WHEAT"
+      },
+      {
+        "value": "Items.BAKED_POTATO"
+      },
+      {
+        "value": "Blocks.WHEAT"
+      },
+      {
+        "value": "Items.BAKED_POTATO"
+      },
+      {
+        "value": "Items.BUCKET"
+      },
+      {
+        "value": "Items.BAKED_POTATO"
+      },
+      {
+        "value": "Blocks.WHEAT"
+      },
+      {
+        "value": "Items.BAKED_POTATO"
+      },
+      {
+        "value": "Blocks.WHEAT"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Doritos"
+    },
+    "name": "doritos_receta",
+    "namespace": "mod"
+  }
+}

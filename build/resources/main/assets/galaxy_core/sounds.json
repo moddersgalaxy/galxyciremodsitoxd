@@ -1,0 +1,27 @@
+{
+  "mccaco": {
+    "subtitle": "subtitles.mccaco",
+    "sounds": [
+      {
+        "name": "galaxy_core:cajitafelizmccaco",
+        "stream": false
+      }
+    ]
+  },
+  "feliz": {
+    "sounds": [
+      {
+        "name": "galaxy_core:cajitafeli",
+        "stream": false
+      }
+    ]
+  },
+  "sound": {
+    "sounds": [
+      {
+        "name": "galaxy_core:me_compre_una_cajita_feliz_",
+        "stream": false
+      }
+    ]
+  }
+}

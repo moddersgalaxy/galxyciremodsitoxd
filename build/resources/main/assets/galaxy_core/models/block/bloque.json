@@ -1,0 +1,9 @@
+{
+  "parent": "galaxy_core:custom/misterybox",
+  "textures": {
+    "all": "galaxy_core:block/cubemario",
+    "particle": "galaxy_core:block/cubemario",
+    "0": "galaxy_core:block/misteryboxx"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "galaxy_core:custom/swordyellow",
+  "textures": {
+    "0": "galaxy_core:block/best",
+    "particle": "galaxy_core:item/blood-edge-sword2"
+  }
+}

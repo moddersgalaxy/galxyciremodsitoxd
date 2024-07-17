@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "galaxy_core:hierro_pulsante"
+    }
+  ],
+  "result": {
+    "item": "galaxy_core:pepita_pulsante",
+    "count": 9
+  }
+}

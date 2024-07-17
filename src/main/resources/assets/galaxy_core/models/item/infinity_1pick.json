@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "galaxy_core:item/infinitym1pick"
+  }
+}
