@@ -26,37 +26,37 @@
       {
         "mx": 6.9375,
         "my": 0.1,
-        "mz": 7.2625,
+        "mz": 8.2625,
         "Mx": 8.9375,
         "My": 3.4,
-        "Mz": 8.2625,
+        "Mz": 9.2625,
         "subtract": false
       },
       {
         "mx": 5.9375,
         "my": 1.4,
-        "mz": 7.2625,
+        "mz": 8.2625,
         "Mx": 6.9375,
         "My": 3.4,
-        "Mz": 8.2625,
+        "Mz": 9.2625,
         "subtract": false
       },
       {
         "mx": 8.9375,
         "my": 1.4,
-        "mz": 7.2625,
+        "mz": 8.2625,
         "Mx": 9.9375,
         "My": 3.4,
-        "Mz": 8.2625,
+        "Mz": 9.2625,
         "subtract": false
       },
       {
         "mx": 6.2375,
         "my": 3.4,
-        "mz": 6.0125,
+        "mz": 7.0125,
         "Mx": 9.7375,
         "My": 6.9,
-        "Mz": 9.2625,
+        "Mz": 10.2625,
         "subtract": false
       }
     ],
@@ -69,7 +69,7 @@
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "CUSTOM:GalaxyTab"
+      "value": "CUSTOM:GalaxyExtra"
     },
     "destroyTool": "Not specified",
     "customDrop": {

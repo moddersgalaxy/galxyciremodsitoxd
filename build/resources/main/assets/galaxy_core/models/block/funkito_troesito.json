@@ -1,0 +1,9 @@
+{
+  "parent": "galaxy_core:custom/funkitotroesito",
+  "textures": {
+    "all": "galaxy_core:block/particulaamarilla",
+    "particle": "galaxy_core:block/particulaamarilla",
+    "1": "galaxy_core:block/personajetroe"
+  },
+  "render_type": "solid"
+}

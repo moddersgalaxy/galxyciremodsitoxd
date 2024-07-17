@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "personajetroe",
+        "2": "cajatroe"
+      },
+      "name": "default"
+    }
+  }
+}

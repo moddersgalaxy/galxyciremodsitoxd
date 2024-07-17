@@ -247,6 +247,8 @@ public class GalaxyCoreModItems {
 	public static final RegistryObject<Item> GALAXY_POP_NADIEN = block(GalaxyCoreModBlocks.GALAXY_POP_NADIEN);
 	public static final RegistryObject<Item> FUNKITO_NADIEN = block(GalaxyCoreModBlocks.FUNKITO_NADIEN);
 	public static final RegistryObject<Item> EPEOLATRY = REGISTRY.register("epeolatry", () -> new EpeolatryItem());
+	public static final RegistryObject<Item> GALAXY_POP_TROESITO = block(GalaxyCoreModBlocks.GALAXY_POP_TROESITO);
+	public static final RegistryObject<Item> FUNKITO_TROESITO = block(GalaxyCoreModBlocks.FUNKITO_TROESITO);
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));

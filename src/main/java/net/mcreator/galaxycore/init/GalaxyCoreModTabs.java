@@ -49,7 +49,6 @@ public class GalaxyCoreModTabs {
 				tabData.accept(GalaxyCoreModItems.KEY_VERDE.get());
 				tabData.accept(GalaxyCoreModItems.SKULLPURPLE.get());
 				tabData.accept(GalaxyCoreModItems.TREBOL.get());
-				tabData.accept(GalaxyCoreModBlocks.FUNKITO_NADIEN.get().asItem());
 			}).withSearchBar().build());
 	public static final RegistryObject<CreativeModeTab> GALAXY_EXTRA = REGISTRY.register("galaxy_extra",
 			() -> CreativeModeTab.builder().title(Component.translatable("item_group.galaxy_core.galaxy_extra")).icon(() -> new ItemStack(GalaxyCoreModItems.HUB_1.get())).displayItems((parameters, tabData) -> {
@@ -100,6 +99,9 @@ public class GalaxyCoreModTabs {
 				tabData.accept(GalaxyCoreModItems.ABSOLUTE_PLATE.get());
 				tabData.accept(GalaxyCoreModItems.CACOTA.get());
 				tabData.accept(GalaxyCoreModBlocks.GALAXY_POP_NADIEN.get().asItem());
+				tabData.accept(GalaxyCoreModBlocks.FUNKITO_NADIEN.get().asItem());
+				tabData.accept(GalaxyCoreModBlocks.GALAXY_POP_TROESITO.get().asItem());
+				tabData.accept(GalaxyCoreModBlocks.FUNKITO_TROESITO.get().asItem());
 			})
 
 					.build());

@@ -1540,10 +1540,10 @@
       "registry_name": "bloque",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/galaxycore/block/BloqueBlock.java",
-          "src/main/resources/assets/galaxy_core/models/item/bloque.json",
+          "src/main/resources/assets/galaxy_core/models/block/bloque.json",
           "src/main/resources/assets/galaxy_core/blockstates/bloque.json",
-          "src/main/resources/assets/galaxy_core/models/block/bloque.json"
+          "src/main/java/net/mcreator/galaxycore/block/BloqueBlock.java",
+          "src/main/resources/assets/galaxy_core/models/item/bloque.json"
         ]
       },
       "path": "~/Items"
@@ -2331,10 +2331,10 @@
       "registry_name": "galaxy_pop_nadien",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/galaxycore/block/GalaxyPopNadienBlock.java",
-          "src/main/resources/assets/galaxy_core/models/item/galaxy_pop_nadien.json",
           "src/main/resources/assets/galaxy_core/blockstates/galaxy_pop_nadien.json",
-          "src/main/resources/assets/galaxy_core/models/block/galaxy_pop_nadien.json"
+          "src/main/resources/assets/galaxy_core/models/block/galaxy_pop_nadien.json",
+          "src/main/java/net/mcreator/galaxycore/block/GalaxyPopNadienBlock.java",
+          "src/main/resources/assets/galaxy_core/models/item/galaxy_pop_nadien.json"
         ]
       },
       "path": "~/Bloques"
@@ -2348,10 +2348,10 @@
       "registry_name": "funkito_nadien",
       "metadata": {
         "files": [
-          "src/main/resources/assets/galaxy_core/models/item/funkito_nadien.json",
           "src/main/resources/assets/galaxy_core/models/block/funkito_nadien.json",
-          "src/main/resources/assets/galaxy_core/blockstates/funkito_nadien.json",
-          "src/main/java/net/mcreator/galaxycore/block/FunkitoNadienBlock.java"
+          "src/main/java/net/mcreator/galaxycore/block/FunkitoNadienBlock.java",
+          "src/main/resources/assets/galaxy_core/models/item/funkito_nadien.json",
+          "src/main/resources/assets/galaxy_core/blockstates/funkito_nadien.json"
         ]
       },
       "path": "~/Bloques"
@@ -2370,6 +2370,40 @@
         ]
       },
       "path": "~/Armas"
+    },
+    {
+      "name": "GalaxyPopTroesito",
+      "type": "block",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_pop_troesito",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/blockstates/galaxy_pop_troesito.json",
+          "src/main/resources/assets/galaxy_core/models/item/galaxy_pop_troesito.json",
+          "src/main/java/net/mcreator/galaxycore/block/GalaxyPopTroesitoBlock.java",
+          "src/main/resources/assets/galaxy_core/models/block/galaxy_pop_troesito.json"
+        ]
+      },
+      "path": "~/Bloques"
+    },
+    {
+      "name": "FunkitoTroesito",
+      "type": "block",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "funkito_troesito",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/funkito_troesito.json",
+          "src/main/resources/assets/galaxy_core/models/block/funkito_troesito.json",
+          "src/main/resources/assets/galaxy_core/blockstates/funkito_troesito.json",
+          "src/main/java/net/mcreator/galaxycore/block/FunkitoTroesitoBlock.java"
+        ]
+      },
+      "path": "~/Bloques"
     }
   ],
   "variable_elements": [
@@ -2423,6 +2457,7 @@
       "item.galaxy_core.electrical_steel_nugget": "Electrical Steel Nugget",
       "item.galaxy_core.hub_1": "§6Galaxy coin §bcyan",
       "item.galaxy_core.hub_2": "§6Galaxy coin §cred",
+      "block.galaxy_core.funkito_troesito": "Funkito Troesito",
       "item.galaxy_core.end_steel_nugget": "End Steel Nugget",
       "item.galaxy_core.redstone_alloy_nugget": "Redstone Alloy Nugget",
       "item.galaxy_core.vanguardsword": "§3Vanguard §bsword",
@@ -2501,6 +2536,7 @@
       "item.galaxy_core.orbegrey": "Orbe grey",
       "item_group.galaxy_core.galaxy_armas": "galaxy armas",
       "item.galaxy_core.hubgreen": "§6Galaxy coin §agreen",
+      "block.galaxy_core.galaxy_pop_troesito": "Galaxy Pop Troesito",
       "item_group.galaxy_core.galaxy_ores": "galaxy ores",
       "item.galaxy_core.key_rojo": "key red",
       "item.galaxy_core.cacota": "Cacota",
