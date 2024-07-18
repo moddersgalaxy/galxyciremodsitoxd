@@ -1,9 +1,9 @@
 {
-  "parent": "galaxy_core:custom/nadien",
+  "parent": "galaxy_core:custom/srnadien",
   "textures": {
     "all": "galaxy_core:block/particulanadien",
     "particle": "galaxy_core:block/particulanadien",
-    "1": "galaxy_core:block/texturafunkitonadien",
+    "1": "galaxy_core:block/personajenadien",
     "2": "galaxy_core:block/cajanadien2"
   },
   "render_type": "solid"

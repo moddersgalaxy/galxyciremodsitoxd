@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "galaxy_core:funkito_nadien"
+    }
+  ],
+  "result": {
+    "item": "galaxy_core:galaxy_pop_nadien",
+    "count": 1
+  }
+}

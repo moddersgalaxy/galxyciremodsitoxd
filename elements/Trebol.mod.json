@@ -10,7 +10,7 @@
     "name": "Trebol",
     "rarity": "COMMON",
     "creativeTab": {
-      "value": "CUSTOM:GalaxyTab"
+      "value": "CUSTOM:GalaxyExtra"
     },
     "stackSize": 64,
     "enchantability": 0,

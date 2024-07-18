@@ -14,8 +14,10 @@ import net.mcreator.galaxycore.block.SexyXDBlock;
 import net.mcreator.galaxycore.block.PruebaaBlock;
 import net.mcreator.galaxycore.block.GalaxyPopTroesitoBlock;
 import net.mcreator.galaxycore.block.GalaxyPopNadienBlock;
+import net.mcreator.galaxycore.block.GalaxyPopJoanFoBlock;
 import net.mcreator.galaxycore.block.FunkitoTroesitoBlock;
 import net.mcreator.galaxycore.block.FunkitoNadienBlock;
+import net.mcreator.galaxycore.block.FunkitoJoanFoBlock;
 import net.mcreator.galaxycore.block.BloqueBlock;
 import net.mcreator.galaxycore.GalaxyCoreMod;
 
@@ -28,4 +30,6 @@ public class GalaxyCoreModBlocks {
 	public static final RegistryObject<Block> FUNKITO_NADIEN = REGISTRY.register("funkito_nadien", () -> new FunkitoNadienBlock());
 	public static final RegistryObject<Block> GALAXY_POP_TROESITO = REGISTRY.register("galaxy_pop_troesito", () -> new GalaxyPopTroesitoBlock());
 	public static final RegistryObject<Block> FUNKITO_TROESITO = REGISTRY.register("funkito_troesito", () -> new FunkitoTroesitoBlock());
+	public static final RegistryObject<Block> GALAXY_POP_JOAN_FO = REGISTRY.register("galaxy_pop_joan_fo", () -> new GalaxyPopJoanFoBlock());
+	public static final RegistryObject<Block> FUNKITO_JOAN_FO = REGISTRY.register("funkito_joan_fo", () -> new FunkitoJoanFoBlock());
 }

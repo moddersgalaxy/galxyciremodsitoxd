@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "galaxy_core:galaxy_pop_joan_fo"
+    }
+  ],
+  "result": {
+    "item": "galaxy_core:funkito_joan_fo",
+    "count": 1
+  }
+}

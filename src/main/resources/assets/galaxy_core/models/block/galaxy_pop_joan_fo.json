@@ -1,0 +1,10 @@
+{
+  "parent": "galaxy_core:custom/joanfo",
+  "textures": {
+    "all": "galaxy_core:block/particulanadien",
+    "particle": "galaxy_core:block/particulanadien",
+    "1": "galaxy_core:block/personajejoan",
+    "2": "galaxy_core:block/cajitajoan"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "galaxy_core:custom/funkitojoan",
+  "textures": {
+    "all": "galaxy_core:block/particulanadien",
+    "particle": "galaxy_core:block/particulanadien",
+    "1": "galaxy_core:block/personajejoan"
+  },
+  "render_type": "solid"
+}

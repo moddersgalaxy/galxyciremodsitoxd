@@ -1,0 +1,2771 @@
+{
+  "mod_elements": [
+    {
+      "name": "Hub",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hub",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/HubItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/hub.json"
+        ]
+      }
+    },
+    {
+      "name": "GalaxyTab",
+      "type": "tab",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_tab",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Starlight",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "starlight",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/starlight.json",
+          "src/main/java/net/mcreator/galaxycore/item/StarlightItem.java"
+        ]
+      }
+    },
+    {
+      "name": "CajitaFeliz",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cajita_feliz",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/CajitaFelizItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/cajita_feliz.json"
+        ]
+      },
+      "path": "~/Items"
+    },
+    {
+      "name": "MonsterEnergy",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "monster_energy",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/MonsterEnergyItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/monster_energy.json"
+        ]
+      },
+      "path": "~/Items"
+    },
+    {
+      "name": "Sandwichito",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sandwichito",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/SandwichitoItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/sandwichito.json"
+        ]
+      },
+      "path": "~/Items"
+    },
+    {
+      "name": "AmethystStarlight",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_starlight",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/amethyst_starlight.json",
+          "src/main/java/net/mcreator/galaxycore/item/AmethystStarlightItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Guantelete",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "guantelete",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/guantelete.json",
+          "src/main/java/net/mcreator/galaxycore/item/GuanteleteItem.java"
+        ]
+      },
+      "path": "~/Armas"
+    },
+    {
+      "name": "Catalizador",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "catalizador",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/CatalizadorItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/catalizador.json"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "BrujulaMaldita",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brujula_maldita",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/brujula_maldita.json",
+          "src/main/java/net/mcreator/galaxycore/item/BrujulaMalditaItem.java"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "CalaveraOscura",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "calavera_oscura",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/CalaveraOscuraItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/calavera_oscura.json"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "AgujeroNegro",
+      "type": "item",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "agujero_negro",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/AgujeroNegroItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/agujero_negro.json"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "AlmaDeDragon",
+      "type": "item",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alma_de_dragon",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/AlmaDeDragonItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/alma_de_dragon.json"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "AntiMateria",
+      "type": "item",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "anti_materia",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/anti_materia.json",
+          "src/main/java/net/mcreator/galaxycore/item/AntiMateriaItem.java"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "CombustibleRadiactivo",
+      "type": "item",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "combustible_radiactivo",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/CombustibleRadiactivoItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/combustible_radiactivo.json"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "PatricioEstrella",
+      "type": "item",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "patricio_estrella",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/patricio_estrella.json",
+          "src/main/java/net/mcreator/galaxycore/item/PatricioEstrellaItem.java"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "MiniReactor",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mini_reactor",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/mini_reactor.json",
+          "src/main/java/net/mcreator/galaxycore/item/MiniReactorItem.java"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "MiniPortal",
+      "type": "item",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mini_portal",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/mini_portal.json",
+          "src/main/java/net/mcreator/galaxycore/item/MiniPortalItem.java"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "Planos",
+      "type": "item",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "planos",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/PlanosItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/planos.json"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "PepitaDeMegaEstrella",
+      "type": "item",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pepita_de_mega_estrella",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/pepita_de_mega_estrella.json",
+          "src/main/java/net/mcreator/galaxycore/item/PepitaDeMegaEstrellaItem.java"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "Transmisor",
+      "type": "item",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "transmisor",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/TransmisorItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/transmisor.json"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "Semilla",
+      "type": "item",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "semilla",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/semilla.json",
+          "src/main/java/net/mcreator/galaxycore/item/SemillaItem.java"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "SuperSemilla",
+      "type": "item",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "super_semilla",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/super_semilla.json",
+          "src/main/java/net/mcreator/galaxycore/item/SuperSemillaItem.java"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "MunecoDePaja",
+      "type": "item",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "muneco_de_paja",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/MunecoDePajaItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/muneco_de_paja.json"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "BuscadorDelUniverso",
+      "type": "item",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "buscador_del_universo",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/buscador_del_universo.json",
+          "src/main/java/net/mcreator/galaxycore/item/BuscadorDelUniversoItem.java"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "Hub1",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hub_1",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/Hub1Item.java",
+          "src/main/resources/assets/galaxy_core/models/item/hub_1.json"
+        ]
+      }
+    },
+    {
+      "name": "GalaxyExtra",
+      "type": "tab",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_extra",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "LingoteNeutralTier1",
+      "type": "item",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lingote_neutral_tier_1",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/LingoteNeutralTier1Item.java",
+          "src/main/resources/assets/galaxy_core/models/item/lingote_neutral_tier_1.json"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "SexyXD",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sexy_xd",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/sexy_xd.json",
+          "src/main/resources/assets/galaxy_core/models/block/sexy_xd.json",
+          "src/main/resources/assets/galaxy_core/blockstates/sexy_xd.json",
+          "src/main/java/net/mcreator/galaxycore/block/SexyXDBlock.java"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "Doritos",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "doritos",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/doritos.json",
+          "src/main/java/net/mcreator/galaxycore/item/DoritosItem.java"
+        ]
+      },
+      "path": "~/Items"
+    },
+    {
+      "name": "Moneda",
+      "type": "item",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "moneda",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/moneda.json",
+          "src/main/java/net/mcreator/galaxycore/item/MonedaItem.java"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "HierroPulsante",
+      "type": "item",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hierro_pulsante",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/hierro_pulsante.json",
+          "src/main/java/net/mcreator/galaxycore/item/HierroPulsanteItem.java"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "RedstoneAlloy",
+      "type": "item",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redstone_alloy",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/RedstoneAlloyItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/redstone_alloy.json"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "EnergeticAlloy",
+      "type": "item",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energetic_alloy",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/EnergeticAlloyItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/energetic_alloy.json"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "VibrantAlloy",
+      "type": "item",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vibrant_alloy",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/vibrant_alloy.json",
+          "src/main/java/net/mcreator/galaxycore/item/VibrantAlloyItem.java"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "Soularium",
+      "type": "item",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "soularium",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/SoulariumItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/soularium.json"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "StellarAlloy",
+      "type": "item",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stellar_alloy",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/StellarAlloyItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/stellar_alloy.json"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "PepitaPulsante",
+      "type": "item",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pepita_pulsante",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/PepitaPulsanteItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/pepita_pulsante.json"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "PepitaEnergetica",
+      "type": "item",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pepita_energetica",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/PepitaEnergeticaItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/pepita_energetica.json"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "PepitaVibrante",
+      "type": "item",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pepita_vibrante",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/pepita_vibrante.json",
+          "src/main/java/net/mcreator/galaxycore/item/PepitaVibranteItem.java"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "PepitaDeAlmas",
+      "type": "item",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pepita_de_almas",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/pepita_de_almas.json",
+          "src/main/java/net/mcreator/galaxycore/item/PepitaDeAlmasItem.java"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "PepitaEstelar",
+      "type": "item",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pepita_estelar",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/PepitaEstelarItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/pepita_estelar.json"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "HierroConductor",
+      "type": "item",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hierro_conductor",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/HierroConductorItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/hierro_conductor.json"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "PepitaConductora",
+      "type": "item",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pepita_conductora",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/pepita_conductora.json",
+          "src/main/java/net/mcreator/galaxycore/item/PepitaConductoraItem.java"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "MelodicAlloy",
+      "type": "item",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "melodic_alloy",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/MelodicAlloyItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/melodic_alloy.json"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "MelodicAlloyNugget",
+      "type": "item",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "melodic_alloy_nugget",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/MelodicAlloyNuggetItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/melodic_alloy_nugget.json"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "DarkSteel",
+      "type": "item",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_steel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/dark_steel.json",
+          "src/main/java/net/mcreator/galaxycore/item/DarkSteelItem.java"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "DarkSteelNugget",
+      "type": "item",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_steel_nugget",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/DarkSteelNuggetItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/dark_steel_nugget.json"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "EndSteelAlloy",
+      "type": "item",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "end_steel_alloy",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/end_steel_alloy.json",
+          "src/main/java/net/mcreator/galaxycore/item/EndSteelAlloyItem.java"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "EndSteelNugget",
+      "type": "item",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "end_steel_nugget",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/EndSteelNuggetItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/end_steel_nugget.json"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "EnderiumBase",
+      "type": "item",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enderium_base",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/enderium_base.json",
+          "src/main/java/net/mcreator/galaxycore/item/EnderiumBaseItem.java"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "SuperCaca",
+      "type": "item",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "super_caca",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/super_caca.json",
+          "src/main/java/net/mcreator/galaxycore/item/SuperCacaItem.java"
+        ]
+      }
+    },
+    {
+      "name": "PepitaPulsanteReceta",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pepita_pulsante_receta",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/galaxy_core/recipes/pepita_pulsante_receta.json"
+        ]
+      },
+      "path": "~/Items Extras/Recetas"
+    },
+    {
+      "name": "PepitaEnergeticaReceta",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pepita_energetica_receta",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/galaxy_core/recipes/pepita_energetica_receta.json"
+        ]
+      },
+      "path": "~/Items Extras/Recetas"
+    },
+    {
+      "name": "PepitaVibranteReceta",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pepita_vibrante_receta",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/galaxy_core/recipes/pepita_vibrante_receta.json"
+        ]
+      },
+      "path": "~/Items Extras/Recetas"
+    },
+    {
+      "name": "PepitasDeAlmasReceta",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pepitas_de_almas_receta",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/galaxy_core/recipes/pepitas_de_almas_receta.json"
+        ]
+      },
+      "path": "~/Items Extras/Recetas"
+    },
+    {
+      "name": "PepitaEstelarReceta",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pepita_estelar_receta",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/galaxy_core/recipes/pepita_estelar_receta.json"
+        ]
+      },
+      "path": "~/Items Extras/Recetas"
+    },
+    {
+      "name": "PepitaConductoraReceta",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pepita_conductora_receta",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/galaxy_core/recipes/pepita_conductora_receta.json"
+        ]
+      },
+      "path": "~/Items Extras/Recetas"
+    },
+    {
+      "name": "DarkSteelPepitaReceta",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_steel_pepita_receta",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/galaxy_core/recipes/dark_steel_pepita_receta.json"
+        ]
+      },
+      "path": "~/Items Extras/Recetas"
+    },
+    {
+      "name": "PepitaMellodicAlloyReceta",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pepita_mellodic_alloy_receta",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/galaxy_core/recipes/pepita_mellodic_alloy_receta.json"
+        ]
+      },
+      "path": "~/Items Extras/Recetas"
+    },
+    {
+      "name": "DarkSteelIngotReceta",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_steel_ingot_receta",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/galaxy_core/recipes/dark_steel_ingot_receta.json"
+        ]
+      },
+      "path": "~/Items Extras/Recetas"
+    },
+    {
+      "name": "PepitaEndSteelReceta",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pepita_end_steel_receta",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/galaxy_core/recipes/pepita_end_steel_receta.json"
+        ]
+      },
+      "path": "~/Items Extras/Recetas"
+    },
+    {
+      "name": "RedstoneAlloyNugget",
+      "type": "item",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redstone_alloy_nugget",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/redstone_alloy_nugget.json",
+          "src/main/java/net/mcreator/galaxycore/item/RedstoneAlloyNuggetItem.java"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "PepitaRedstoneAlloyReceta",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pepita_redstone_alloy_receta",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/galaxy_core/recipes/pepita_redstone_alloy_receta.json"
+        ]
+      },
+      "path": "~/Items Extras/Recetas"
+    },
+    {
+      "name": "PulsanteIngotReceta",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pulsante_ingot_receta",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/galaxy_core/recipes/pulsante_ingot_receta.json"
+        ]
+      },
+      "path": "~/Items Extras/Recetas"
+    },
+    {
+      "name": "EnergeticIngotReceta",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energetic_ingot_receta",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/galaxy_core/recipes/energetic_ingot_receta.json"
+        ]
+      },
+      "path": "~/Items Extras/Recetas"
+    },
+    {
+      "name": "VibranteIngotReceta",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vibrante_ingot_receta",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/galaxy_core/recipes/vibrante_ingot_receta.json"
+        ]
+      },
+      "path": "~/Items Extras/Recetas"
+    },
+    {
+      "name": "SoulingotReceta",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "soulingot_receta",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/galaxy_core/recipes/soulingot_receta.json"
+        ]
+      },
+      "path": "~/Items Extras/Recetas"
+    },
+    {
+      "name": "EstelarIngotReceta",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "estelar_ingot_receta",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/galaxy_core/recipes/estelar_ingot_receta.json"
+        ]
+      },
+      "path": "~/Items Extras/Recetas"
+    },
+    {
+      "name": "ConductorIngotReceta",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "conductor_ingot_receta",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/galaxy_core/recipes/conductor_ingot_receta.json"
+        ]
+      },
+      "path": "~/Items Extras/Recetas"
+    },
+    {
+      "name": "MellodicIngotReceta",
+      "type": "recipe",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mellodic_ingot_receta",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/galaxy_core/recipes/mellodic_ingot_receta.json"
+        ]
+      },
+      "path": "~/Items Extras/Recetas"
+    },
+    {
+      "name": "EndStellIngot",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "end_stell_ingot",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/galaxy_core/recipes/end_stell_ingot.json"
+        ]
+      },
+      "path": "~/Items Extras/Recetas"
+    },
+    {
+      "name": "RedstoneIngotReceta",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redstone_ingot_receta",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/galaxy_core/recipes/redstone_ingot_receta.json"
+        ]
+      },
+      "path": "~/Items Extras/Recetas"
+    },
+    {
+      "name": "Shuerk",
+      "type": "painting",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shuerk",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "SuperCacapotion",
+      "type": "procedure",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "super_cacapotion",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/procedures/SuperCacapotionProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ReManija",
+      "type": "procedure",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "re_manija",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/procedures/ReManijaProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Items"
+    },
+    {
+      "name": "CajitaFelizReceta",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cajita_feliz_receta",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/galaxy_core/recipes/cajita_feliz_receta.json"
+        ]
+      },
+      "path": "~/Items"
+    },
+    {
+      "name": "DoritosReceta",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "doritos_receta",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/galaxy_core/recipes/doritos_receta.json"
+        ]
+      },
+      "path": "~/Items"
+    },
+    {
+      "name": "SuperHappyCajitaFeliz",
+      "type": "procedure",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "super_happy_cajita_feliz",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/procedures/SuperHappyCajitaFelizProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Items"
+    },
+    {
+      "name": "GoldenBlade",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golden_blade",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/GoldenBladeItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/golden_blade.json"
+        ]
+      }
+    },
+    {
+      "name": "Hub2",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hub_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/hub_2.json",
+          "src/main/java/net/mcreator/galaxycore/item/Hub2Item.java"
+        ]
+      }
+    },
+    {
+      "name": "GalaxyArmas",
+      "type": "tab",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_armas",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Hub3",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hubgreen",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/Hub3Item.java",
+          "src/main/resources/assets/galaxy_core/models/item/hubgreen.json"
+        ]
+      }
+    },
+    {
+      "name": "Hub4",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hub_4",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/Hub4Item.java",
+          "src/main/resources/assets/galaxy_core/models/item/hub_4.json"
+        ]
+      }
+    },
+    {
+      "name": "GalaxyOres",
+      "type": "tab",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_ores",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "McCaco",
+      "type": "musicdisc",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mc_caco",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/McCacoItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/mc_caco.json"
+        ]
+      },
+      "path": "~/Items"
+    },
+    {
+      "name": "HellfireSword",
+      "type": "tool",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hellfiresword",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/HellfireSwordItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/hellfiresword.json"
+        ]
+      },
+      "path": "~/Armas"
+    },
+    {
+      "name": "HellfirePickaxe",
+      "type": "tool",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hellfirepickaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/HellfirePickaxeItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/hellfirepickaxe.json"
+        ]
+      },
+      "path": "~/Armas"
+    },
+    {
+      "name": "HellfirePickaxeAlRomperUnBloqueConLaHerramienta",
+      "type": "procedure",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hellfire_pickaxe_al_romper_un_bloque_con_la_herramienta",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/procedures/HellfirePickaxeAlRomperUnBloqueConLaHerramientaProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Armas"
+    },
+    {
+      "name": "Panchito",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "panchito",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/PanchitoItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/panchito.json"
+        ]
+      },
+      "path": "~/Items"
+    },
+    {
+      "name": "ElectricalsteelIngot",
+      "type": "item",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "electricalsteel_ingot",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/ElectricalsteelIngotItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/electricalsteel_ingot.json"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "ElectricalSteelNugget",
+      "type": "item",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "electrical_steel_nugget",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/ElectricalSteelNuggetItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/electrical_steel_nugget.json"
+        ]
+      },
+      "path": "~/Items Extras"
+    },
+    {
+      "name": "ElectricalAlloyIngot",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "electrical_alloy_ingot",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/galaxy_core/recipes/electrical_alloy_ingot.json"
+        ]
+      },
+      "path": "~/Items Extras/Recetas"
+    },
+    {
+      "name": "ElectricalSteelNugge",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "electrical_steel_nugge",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/galaxy_core/recipes/electrical_steel_nugge.json"
+        ]
+      },
+      "path": "~/Items Extras/Recetas"
+    },
+    {
+      "name": "Pruebaa",
+      "type": "block",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pruebaa",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/pruebaa.json",
+          "src/main/resources/assets/galaxy_core/blockstates/pruebaa.json",
+          "src/main/resources/assets/galaxy_core/models/block/pruebaa.json",
+          "src/main/java/net/mcreator/galaxycore/block/PruebaaBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Cofrecito",
+      "type": "item",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cofrecito",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/CofrecitoItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/cofrecito.json"
+        ]
+      }
+    },
+    {
+      "name": "IronheartSword",
+      "type": "tool",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironheartsword",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/IronheartSwordItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/ironheartsword.json"
+        ]
+      },
+      "path": "~/Armas"
+    },
+    {
+      "name": "FrozenBlade",
+      "type": "tool",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frozenblade",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/frozenblade.json",
+          "src/main/java/net/mcreator/galaxycore/item/FrozenBladeItem.java"
+        ]
+      },
+      "path": "~/Armas"
+    },
+    {
+      "name": "KnightsSword",
+      "type": "item",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "knightssword",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/KnightsSwordItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/knightssword.json"
+        ]
+      },
+      "path": "~/Armas"
+    },
+    {
+      "name": "VolcanicBlade",
+      "type": "tool",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "volcanicblade",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/VolcanicBladeItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/volcanicblade.json"
+        ]
+      },
+      "path": "~/Armas"
+    },
+    {
+      "name": "VolcanicOre",
+      "type": "item",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "volcanic_ore",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/VolcanicOreItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/volcanic_ore.json"
+        ]
+      },
+      "path": "~/Items"
+    },
+    {
+      "name": "VolcanicAxe",
+      "type": "tool",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "volcanicaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/VolcanicAxeItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/volcanicaxe.json"
+        ]
+      },
+      "path": "~/Armas"
+    },
+    {
+      "name": "Bloque",
+      "type": "block",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bloque",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/block/bloque.json",
+          "src/main/resources/assets/galaxy_core/blockstates/bloque.json",
+          "src/main/java/net/mcreator/galaxycore/block/BloqueBlock.java",
+          "src/main/resources/assets/galaxy_core/models/item/bloque.json"
+        ]
+      },
+      "path": "~/Items"
+    },
+    {
+      "name": "KeyRojo",
+      "type": "item",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "key_rojo",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/KeyRojoItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/key_rojo.json"
+        ]
+      },
+      "path": "~/Items"
+    },
+    {
+      "name": "KeyAmarilla",
+      "type": "item",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "key_amarilla",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/KeyAmarillaItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/key_amarilla.json"
+        ]
+      },
+      "path": "~/Items"
+    },
+    {
+      "name": "KeyMadera",
+      "type": "item",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "key_madera",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/key_madera.json",
+          "src/main/java/net/mcreator/galaxycore/item/KeyMaderaItem.java"
+        ]
+      },
+      "path": "~/Items"
+    },
+    {
+      "name": "KeyRosa",
+      "type": "item",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "key_rosa",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/key_rosa.json",
+          "src/main/java/net/mcreator/galaxycore/item/KeyRosaItem.java"
+        ]
+      },
+      "path": "~/Items"
+    },
+    {
+      "name": "KeyMorada",
+      "type": "item",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "key_morada",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/key_morada.json",
+          "src/main/java/net/mcreator/galaxycore/item/KeyMoradaItem.java"
+        ]
+      },
+      "path": "~/Items"
+    },
+    {
+      "name": "KeyVerde",
+      "type": "item",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "key_verde",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/key_verde.json",
+          "src/main/java/net/mcreator/galaxycore/item/KeyVerdeItem.java"
+        ]
+      },
+      "path": "~/Items"
+    },
+    {
+      "name": "Braveheart",
+      "type": "tool",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "braveheart",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/BraveheartItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/braveheart.json"
+        ]
+      },
+      "path": "~/Armas"
+    },
+    {
+      "name": "Braveheartpickaxe",
+      "type": "tool",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "braveheartpickaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/BraveheartpickaxeItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/braveheartpickaxe.json"
+        ]
+      },
+      "path": "~/Armas"
+    },
+    {
+      "name": "BraveheartAxe",
+      "type": "tool",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "braveheartaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/BraveheartAxeItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/braveheartaxe.json"
+        ]
+      },
+      "path": "~/Armas"
+    },
+    {
+      "name": "BraveheartSword",
+      "type": "tool",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "braveheartsword",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/BraveheartSwordItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/braveheartsword.json"
+        ]
+      },
+      "path": "~/Armas"
+    },
+    {
+      "name": "VanguardSword",
+      "type": "tool",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vanguardsword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/vanguardsword.json",
+          "src/main/java/net/mcreator/galaxycore/item/VanguardSwordItem.java"
+        ]
+      },
+      "path": "~/Armas"
+    },
+    {
+      "name": "VanguardPickaxe",
+      "type": "tool",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vanguardpickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/vanguardpickaxe.json",
+          "src/main/java/net/mcreator/galaxycore/item/VanguardPickaxeItem.java"
+        ]
+      },
+      "path": "~/Armas"
+    },
+    {
+      "name": "VanguardAxe",
+      "type": "tool",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vanguardaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/vanguardaxe.json",
+          "src/main/java/net/mcreator/galaxycore/item/VanguardAxeItem.java"
+        ]
+      },
+      "path": "~/Armas"
+    },
+    {
+      "name": "VanguardIngot",
+      "type": "item",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vanguardingot",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/VanguardIngotItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/vanguardingot.json"
+        ]
+      },
+      "path": "~/Armas"
+    },
+    {
+      "name": "Token",
+      "type": "item",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "token",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/token.json",
+          "src/main/java/net/mcreator/galaxycore/item/TokenItem.java"
+        ]
+      },
+      "path": "~/Items/Misiones"
+    },
+    {
+      "name": "Coinsilver",
+      "type": "item",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coinsilver",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/coinsilver.json",
+          "src/main/java/net/mcreator/galaxycore/item/CoinsilverItem.java"
+        ]
+      },
+      "path": "~/Items/Misiones"
+    },
+    {
+      "name": "CoinGold",
+      "type": "item",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coin_gold",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/coin_gold.json",
+          "src/main/java/net/mcreator/galaxycore/item/CoinGoldItem.java"
+        ]
+      },
+      "path": "~/Items/Misiones"
+    },
+    {
+      "name": "Heartblue",
+      "type": "item",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heartblue",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/heartblue.json",
+          "src/main/java/net/mcreator/galaxycore/item/HeartblueItem.java"
+        ]
+      },
+      "path": "~/Items/Misiones"
+    },
+    {
+      "name": "Heartbrown",
+      "type": "item",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heartbrown",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/HeartbrownItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/heartbrown.json"
+        ]
+      },
+      "path": "~/Items/Misiones"
+    },
+    {
+      "name": "Heartgreen",
+      "type": "item",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heartgreen",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/HeartgreenItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/heartgreen.json"
+        ]
+      },
+      "path": "~/Items/Misiones"
+    },
+    {
+      "name": "Heartgrey",
+      "type": "item",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heartgrey",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/heartgrey.json",
+          "src/main/java/net/mcreator/galaxycore/item/HeartgreyItem.java"
+        ]
+      },
+      "path": "~/Items/Misiones"
+    },
+    {
+      "name": "Heartpurple",
+      "type": "item",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heartpurple",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/HeartpurpleItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/heartpurple.json"
+        ]
+      },
+      "path": "~/Items/Misiones"
+    },
+    {
+      "name": "Heartred",
+      "type": "item",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heartred",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/heartred.json",
+          "src/main/java/net/mcreator/galaxycore/item/HeartredItem.java"
+        ]
+      },
+      "path": "~/Items/Misiones"
+    },
+    {
+      "name": "Heartyellow",
+      "type": "item",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heartyellow",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/heartyellow.json",
+          "src/main/java/net/mcreator/galaxycore/item/HeartyellowItem.java"
+        ]
+      },
+      "path": "~/Items/Misiones"
+    },
+    {
+      "name": "Flamepurple",
+      "type": "item",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flamepurple",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/FlamepurpleItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/flamepurple.json"
+        ]
+      },
+      "path": "~/Items/Misiones"
+    },
+    {
+      "name": "Orbeblue",
+      "type": "item",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orbeblue",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/orbeblue.json",
+          "src/main/java/net/mcreator/galaxycore/item/OrbeblueItem.java"
+        ]
+      },
+      "path": "~/Items/Misiones"
+    },
+    {
+      "name": "Orbebrown",
+      "type": "item",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orbebrown",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/OrbebrownItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/orbebrown.json"
+        ]
+      },
+      "path": "~/Items/Misiones"
+    },
+    {
+      "name": "Orbegreen",
+      "type": "item",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orbegreen",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/orbegreen.json",
+          "src/main/java/net/mcreator/galaxycore/item/OrbegreenItem.java"
+        ]
+      },
+      "path": "~/Items/Misiones"
+    },
+    {
+      "name": "Orbegrey",
+      "type": "item",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orbegrey",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/orbegrey.json",
+          "src/main/java/net/mcreator/galaxycore/item/OrbegreyItem.java"
+        ]
+      },
+      "path": "~/Items/Misiones"
+    },
+    {
+      "name": "Orbepurple",
+      "type": "item",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orbepurple",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/orbepurple.json",
+          "src/main/java/net/mcreator/galaxycore/item/OrbepurpleItem.java"
+        ]
+      },
+      "path": "~/Items/Misiones"
+    },
+    {
+      "name": "Orbered",
+      "type": "item",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orbered",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/orbered.json",
+          "src/main/java/net/mcreator/galaxycore/item/OrberedItem.java"
+        ]
+      },
+      "path": "~/Items/Misiones"
+    },
+    {
+      "name": "Orbeyellow",
+      "type": "item",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orbeyellow",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/OrbeyellowItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/orbeyellow.json"
+        ]
+      },
+      "path": "~/Items/Misiones"
+    },
+    {
+      "name": "Skullblue",
+      "type": "item",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skullblue",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/SkullblueItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/skullblue.json"
+        ]
+      },
+      "path": "~/Items/Misiones"
+    },
+    {
+      "name": "Skullbrown",
+      "type": "item",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skullbrown",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/SkullbrownItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/skullbrown.json"
+        ]
+      },
+      "path": "~/Items/Misiones"
+    },
+    {
+      "name": "Skullgreen",
+      "type": "item",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skullgreen",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/skullgreen.json",
+          "src/main/java/net/mcreator/galaxycore/item/SkullgreenItem.java"
+        ]
+      },
+      "path": "~/Items/Misiones"
+    },
+    {
+      "name": "Skullgrey",
+      "type": "item",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skullgrey",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/skullgrey.json",
+          "src/main/java/net/mcreator/galaxycore/item/SkullgreyItem.java"
+        ]
+      },
+      "path": "~/Items/Misiones"
+    },
+    {
+      "name": "Skullpurple",
+      "type": "item",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skullpurple",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/skullpurple.json",
+          "src/main/java/net/mcreator/galaxycore/item/SkullpurpleItem.java"
+        ]
+      },
+      "path": "~/Items/Misiones"
+    },
+    {
+      "name": "Skullyellow",
+      "type": "item",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skullyellow",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/SkullyellowItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/skullyellow.json"
+        ]
+      },
+      "path": "~/Items/Misiones"
+    },
+    {
+      "name": "Skullred",
+      "type": "item",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skullred",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/SkullredItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/skullred.json"
+        ]
+      },
+      "path": "~/Items/Misiones"
+    },
+    {
+      "name": "Trebol",
+      "type": "item",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "trebol",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/TrebolItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/trebol.json"
+        ]
+      },
+      "path": "~/Items/Misiones"
+    },
+    {
+      "name": "Infinityswordbalanced",
+      "type": "tool",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "infinityswordbalanced",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/infinityswordbalanced.json",
+          "src/main/java/net/mcreator/galaxycore/item/InfinityswordbalancedItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Infinitysword1",
+      "type": "tool",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "infinitysword_1",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/item/Infinitysword1Item.java",
+          "src/main/resources/assets/galaxy_core/models/item/infinitysword_1.json"
+        ]
+      }
+    },
+    {
+      "name": "Infinity1pick",
+      "type": "tool",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "infinity_1pick",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/infinity_1pick.json",
+          "src/main/java/net/mcreator/galaxycore/item/Infinity1pickItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Tessssssst",
+      "type": "procedure",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tessssssst",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/procedures/TessssssstProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AbsolutePlate",
+      "type": "item",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "absolute_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/absolute_plate.json",
+          "src/main/java/net/mcreator/galaxycore/item/AbsolutePlateItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Cacota",
+      "type": "item",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cacota",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/cacota.json",
+          "src/main/java/net/mcreator/galaxycore/item/CacotaItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Damedinero",
+      "type": "command",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "damedinero",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/command/DamedineroCommand.java"
+        ]
+      }
+    },
+    {
+      "name": "Msgdinero",
+      "type": "procedure",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "msgdinero",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/procedures/MsgdineroProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Enterserver",
+      "type": "achievement",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enterserver",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/galaxy_core/advancements/enterserver.json"
+        ]
+      }
+    },
+    {
+      "name": "Eresunviciao",
+      "type": "achievement",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eresunviciao",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/galaxy_core/advancements/eresunviciao.json"
+        ]
+      }
+    },
+    {
+      "name": "SuperCacotas",
+      "type": "achievement",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "super_cacotas",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/galaxy_core/advancements/super_cacotas.json"
+        ]
+      }
+    },
+    {
+      "name": "Caca",
+      "type": "recipe",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "caca",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/galaxy_core/recipes/caca.json"
+        ]
+      },
+      "path": "~/Items"
+    },
+    {
+      "name": "GalaxyPopNadien",
+      "type": "block",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_pop_nadien",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/blockstates/galaxy_pop_nadien.json",
+          "src/main/resources/assets/galaxy_core/models/block/galaxy_pop_nadien.json",
+          "src/main/java/net/mcreator/galaxycore/block/GalaxyPopNadienBlock.java",
+          "src/main/resources/assets/galaxy_core/models/item/galaxy_pop_nadien.json"
+        ]
+      },
+      "path": "~/Bloques"
+    },
+    {
+      "name": "FunkitoNadien",
+      "type": "block",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "funkito_nadien",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/block/funkito_nadien.json",
+          "src/main/java/net/mcreator/galaxycore/block/FunkitoNadienBlock.java",
+          "src/main/resources/assets/galaxy_core/models/item/funkito_nadien.json",
+          "src/main/resources/assets/galaxy_core/blockstates/funkito_nadien.json"
+        ]
+      },
+      "path": "~/Bloques"
+    },
+    {
+      "name": "Epeolatry",
+      "type": "tool",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "epeolatry",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/epeolatry.json",
+          "src/main/java/net/mcreator/galaxycore/item/EpeolatryItem.java"
+        ]
+      },
+      "path": "~/Armas"
+    },
+    {
+      "name": "GalaxyPopTroesito",
+      "type": "block",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_pop_troesito",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/blockstates/galaxy_pop_troesito.json",
+          "src/main/resources/assets/galaxy_core/models/item/galaxy_pop_troesito.json",
+          "src/main/java/net/mcreator/galaxycore/block/GalaxyPopTroesitoBlock.java",
+          "src/main/resources/assets/galaxy_core/models/block/galaxy_pop_troesito.json"
+        ]
+      },
+      "path": "~/Bloques"
+    },
+    {
+      "name": "FunkitoTroesito",
+      "type": "block",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "funkito_troesito",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/item/funkito_troesito.json",
+          "src/main/resources/assets/galaxy_core/models/block/funkito_troesito.json",
+          "src/main/resources/assets/galaxy_core/blockstates/funkito_troesito.json",
+          "src/main/java/net/mcreator/galaxycore/block/FunkitoTroesitoBlock.java"
+        ]
+      },
+      "path": "~/Bloques"
+    },
+    {
+      "name": "Funkitonadienreceta",
+      "type": "recipe",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "funkitonadienreceta",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/galaxy_core/recipes/funkitonadienreceta.json"
+        ]
+      },
+      "path": "~/Bloques/Recetas Funkitos"
+    },
+    {
+      "name": "GalaxyPopJoanFo",
+      "type": "block",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_pop_joan_fo",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/galaxy_core/models/block/galaxy_pop_joan_fo.json",
+          "src/main/java/net/mcreator/galaxycore/block/GalaxyPopJoanFoBlock.java",
+          "src/main/resources/assets/galaxy_core/models/item/galaxy_pop_joan_fo.json",
+          "src/main/resources/assets/galaxy_core/blockstates/galaxy_pop_joan_fo.json"
+        ]
+      },
+      "path": "~/Bloques"
+    },
+    {
+      "name": "FunkitoJoanFo",
+      "type": "block",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "funkito_joan_fo",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/galaxycore/block/FunkitoJoanFoBlock.java",
+          "src/main/resources/assets/galaxy_core/blockstates/funkito_joan_fo.json",
+          "src/main/resources/assets/galaxy_core/models/block/funkito_joan_fo.json",
+          "src/main/resources/assets/galaxy_core/models/item/funkito_joan_fo.json"
+        ]
+      },
+      "path": "~/Bloques"
+    },
+    {
+      "name": "Funkonadienacajareceta",
+      "type": "recipe",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "funkonadienacajareceta",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/galaxy_core/recipes/funkonadienacajareceta.json"
+        ]
+      },
+      "path": "~/Bloques/Recetas Funkitos"
+    },
+    {
+      "name": "Funkitotroereceta",
+      "type": "recipe",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "funkitotroereceta",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/galaxy_core/recipes/funkitotroereceta.json"
+        ]
+      },
+      "path": "~/Bloques/Recetas Funkitos"
+    },
+    {
+      "name": "Funkotroeacaja",
+      "type": "recipe",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "funkotroeacaja",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/galaxy_core/recipes/funkotroeacaja.json"
+        ]
+      },
+      "path": "~/Bloques/Recetas Funkitos"
+    },
+    {
+      "name": "Funkojoanreceta",
+      "type": "recipe",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "funkojoanreceta",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/galaxy_core/recipes/funkojoanreceta.json"
+        ]
+      },
+      "path": "~/Bloques/Recetas Funkitos"
+    },
+    {
+      "name": "Funkojoanacaja",
+      "type": "recipe",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "funkojoanacaja",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/galaxy_core/recipes/funkojoanacaja.json"
+        ]
+      },
+      "path": "~/Bloques/Recetas Funkitos"
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "prubin",
+      "type": "direction",
+      "scope": "player_lifetime",
+      "value": "UP"
+    }
+  ],
+  "sound_elements": [
+    {
+      "name": "mccaco",
+      "files": [
+        "cajitafelizmccaco"
+      ],
+      "category": "neutral",
+      "subtitle": "cajitafeliz"
+    },
+    {
+      "name": "feliz",
+      "files": [
+        "cajitafeli"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "sound",
+      "files": [
+        "me_compre_una_cajita_feliz_"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.galaxy_core.mini_reactor": "Mini Reactor",
+      "item.galaxy_core.buscador_del_universo": "Buscador Del Universo",
+      "item.galaxy_core.key_morada": "key morada",
+      "item.galaxy_core.absolute_plate": "Absolute Plate",
+      "advancements.enterserver.descr": "entrar a galaxy origins server",
+      "item.galaxy_core.key_amarilla": "key amarilla",
+      "item.galaxy_core.hellfiresword": "Hellfire Sword",
+      "item.galaxy_core.infinity_1pick": "Infinity-1 Pick",
+      "item.galaxy_core.skullpurple": "Skullpurple",
+      "item.galaxy_core.hub_4": "§6Galaxy coin §eyellow",
+      "block.galaxy_core.pruebaa": "pruebaa",
+      "item.galaxy_core.braveheart": "Braveheart",
+      "item.galaxy_core.electrical_steel_nugget": "Electrical Steel Nugget",
+      "item.galaxy_core.hub_1": "§6Galaxy coin §bcyan",
+      "item.galaxy_core.hub_2": "§6Galaxy coin §cred",
+      "block.galaxy_core.funkito_troesito": "Funkito Troesito",
+      "item.galaxy_core.end_steel_nugget": "End Steel Nugget",
+      "item.galaxy_core.redstone_alloy_nugget": "Redstone Alloy Nugget",
+      "item.galaxy_core.lingote_neutral_tier_1": "Lingote Neutral Tier 1",
+      "item.galaxy_core.vanguardsword": "§3Vanguard §bsword",
+      "item.galaxy_core.heartyellow": "Heart yellow",
+      "item.galaxy_core.pepita_pulsante": "Pepita Pulsante",
+      "item.galaxy_core.hierro_pulsante": "Hierro Pulsante",
+      "item.galaxy_core.volcanicaxe": "Volcanic Axe",
+      "item.galaxy_core.agujero_negro": "Agujero Negro",
+      "item.galaxy_core.brujula_maldita": "Brujula Maldita",
+      "item.galaxy_core.transmisor": "Transmisor",
+      "item.galaxy_core.orbepurple": "Orbepurple",
+      "advancements.super_cacotas.descr": "Guarro",
+      "subtitles.feliz": "",
+      "item.galaxy_core.sandwichito": "sandwichito de miga",
+      "item.galaxy_core.pepita_estelar": "Pepita Estelar",
+      "item.galaxy_core.catalizador": "catalizador",
+      "item.galaxy_core.vanguardingot": "vanguard ingot",
+      "item.galaxy_core.knightssword": "Knights Sword",
+      "item.galaxy_core.anti_materia": "Anti Materia",
+      "item.galaxy_core.pepita_de_mega_estrella": "Pepita De Mega Estrella",
+      "block.galaxy_core.pop_nadien": "GalalaxyPop Nadien",
+      "item.galaxy_core.alma_de_dragon": "Alma De Dragon",
+      "item.galaxy_core.braveheartaxe": "Braveheart Axe",
+      "item.galaxy_core.trebol": "Trebol",
+      "item.galaxy_core.orbeblue": "Orbe blue",
+      "item.galaxy_core.hierro_conductor": "Hierro Conductor",
+      "item.galaxy_core.heartpurple": "Heartpurple",
+      "item.galaxy_core.epeolatry": "Epeolatry",
+      "item.galaxy_core.pepita_vibrante": "Pepita Vibrante",
+      "item.galaxy_core.frozenblade": "Frozen Blade",
+      "item.galaxy_core.hub": "§6Galaxy coin §5purple",
+      "item.galaxy_core.skullbrown": "Skull brown",
+      "block.galaxy_core.sexy_xd": "Sexy XD",
+      "painting.galaxy_core.shuerk.title": "Chuerk",
+      "subtitles.mccaco": "cajitafeliz",
+      "item.galaxy_core.heartblue": "Heart blue",
+      "item.galaxy_core.redstone_alloy": "Redstone Alloy",
+      "advancements.eresunviciao.title": "Eres Un Viciao",
+      "item.galaxy_core.braveheartsword": "Braveheart Sword",
+      "advancements.super_cacotas.title": "Super Cacotas",
+      "block.galaxy_core.bloque": "mario cube",
+      "item.galaxy_core.dark_steel": "Dark Steel",
+      "subtitles.sound": "",
+      "item.galaxy_core.starlight": "starlight",
+      "item.galaxy_core.skullblue": "Skull blue",
+      "item.galaxy_core.melodic_alloy": "Melodic Alloy",
+      "item.galaxy_core.monster_energy": "monster energy",
+      "item.galaxy_core.coinsilver": "Coin Silver",
+      "item.galaxy_core.orbegreen": "Orbe green",
+      "item.galaxy_core.melodic_alloy_nugget": "Melodic Alloy Nugget",
+      "item.galaxy_core.panchito": "panchito",
+      "item.galaxy_core.key_rosa": "key rosa",
+      "item.galaxy_core.pepita_conductora": "Pepita Conductora",
+      "item.galaxy_core.flamepurple": "Flamepurple",
+      "item.galaxy_core.orbebrown": "Orbe brown",
+      "item.galaxy_core.mini_portal": "Mini Portal",
+      "item.galaxy_core.orbered": "Orbe red",
+      "block.galaxy_core.funkito_nadien": "Funkito Nadien",
+      "advancements.enterserver.title": "Entrar Al Servidor",
+      "item.galaxy_core.soularium": "Soularium",
+      "item.galaxy_core.planos": "Planos",
+      "item.galaxy_core.heartred": "Heart red",
+      "item.galaxy_core.skullgreen": "Skull green",
+      "item.galaxy_core.volcanicblade": "Volcanic Blade",
+      "item.galaxy_core.key_verde": "key verde",
+      "item.galaxy_core.guantelete": "guantelete",
+      "item.galaxy_core.coin_gold": "Coin Gold",
+      "item.galaxy_core.hellfirepickaxe": "Hellfire Pickaxe",
+      "item.galaxy_core.patricio_estrella": "Patricio Estrella",
+      "painting.galaxy_core.shuerk.author": "By Nadien",
+      "item.galaxy_core.volcanic_ore": "volcanic ore",
+      "item.galaxy_core.infinitysword_1": "Infinity-1 Sword",
+      "advancements.eresunviciao.descr": "Viaciao",
+      "block.galaxy_core.galaxy_pop_nadien": "Galaxy Pop Nadien",
+      "item.galaxy_core.orbegrey": "Orbe grey",
+      "item_group.galaxy_core.galaxy_armas": "galaxy armas",
+      "item.galaxy_core.hubgreen": "§6Galaxy coin §agreen",
+      "block.galaxy_core.galaxy_pop_troesito": "Galaxy Pop Troesito",
+      "item_group.galaxy_core.galaxy_ores": "galaxy ores",
+      "item.galaxy_core.key_rojo": "key red",
+      "item.galaxy_core.cacota": "Cacota",
+      "item.galaxy_core.mc_caco.desc": "cajita feliz",
+      "item.galaxy_core.stellar_alloy": "Stellar Alloy",
+      "item.galaxy_core.vibrant_alloy": "Vibrant Alloy",
+      "item.galaxy_core.combustible_radiactivo": "Combustible Radiactivo",
+      "item.galaxy_core.pepita_energetica": "Pepita Energetica",
+      "item.galaxy_core.end_steel_alloy": "End Steel Alloy",
+      "item.galaxy_core.doritos": "doritos",
+      "item.galaxy_core.super_semilla": "Super Semilla",
+      "item.galaxy_core.skullgrey": "Skull grey",
+      "item.galaxy_core.vanguardaxe": "§3Vanguard §baxe",
+      "item.galaxy_core.infinityswordbalanced": "Infinity Sword (Balanced)",
+      "item.galaxy_core.braveheartpickaxe": "Braveheart Pickaxe",
+      "item_group.galaxy_core.galaxy_tab": "galaxy",
+      "item.galaxy_core.skullyellow": "Skull yellow",
+      "item.galaxy_core.dark_steel_nugget": "Dark Steel Nugget",
+      "item.galaxy_core.golden_blade": "golden blade",
+      "item.galaxy_core.vanguardpickaxe": "§3Vanguard §bPickaxe",
+      "item.galaxy_core.token": "Token",
+      "item.galaxy_core.pepita_de_almas": "Pepita De Almas",
+      "block.galaxy_core.galaxy_pop_joan_fo": "Galaxy Pop JoanFo",
+      "item.galaxy_core.amethyst_starlight": "amethyst starlight",
+      "item.galaxy_core.super_caca": "super caca",
+      "item.galaxy_core.muneco_de_paja": "Muneco De Paja",
+      "item.galaxy_core.enderium_base": "Enderium Base",
+      "item.galaxy_core.heartbrown": "Heart brown",
+      "item.galaxy_core.ironheartsword": "Ironheart Sword",
+      "item.galaxy_core.heartgrey": "Heart grey",
+      "item.galaxy_core.cajita_feliz": "cajita feliz",
+      "item.galaxy_core.energetic_alloy": "Energetic Alloy",
+      "item.galaxy_core.moneda": "Moneda",
+      "item.galaxy_core.mc_caco": "mc caco",
+      "item.galaxy_core.calavera_oscura": "Calavera Oscura",
+      "item.galaxy_core.cofrecito": "cofrecito",
+      "item.galaxy_core.heartgreen": "Heart green",
+      "item.galaxy_core.orbeyellow": "Orbeyellow",
+      "item.galaxy_core.skullred": "Skull red",
+      "block.galaxy_core.funkito_joan_fo": "Funkito JoanFo",
+      "item_group.galaxy_core.galaxy_extra": "Galaxy Extra",
+      "item.galaxy_core.semilla": "Semilla",
+      "item.galaxy_core.key_madera": "key madera",
+      "item.galaxy_core.electricalsteel_ingot": "Electrical Steel Ingot"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Items",
+        "children": [
+          {
+            "name": "Misiones",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Armaduras",
+        "children": []
+      },
+      {
+        "name": "Armas",
+        "children": []
+      },
+      {
+        "name": "Logros",
+        "children": []
+      },
+      {
+        "name": "Items Extras",
+        "children": [
+          {
+            "name": "Recetas",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Bloques",
+        "children": [
+          {
+            "name": "Recetas Funkitos",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Monsters",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "galaxy_core",
+    "modName": "Galaxy Core",
+    "version": "7.1.3",
+    "author": "L4inx, Nadien",
+    "websiteURL": "https://tienda.galaxyorigins.com/",
+    "license": "All Rights Reserved",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.galaxycore",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300452316
+}
